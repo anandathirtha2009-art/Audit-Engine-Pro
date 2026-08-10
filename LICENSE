@@ -1,17 +1,243 @@
-# Audit Engine Pro — Proprietary License
+# AUDIT ENGINE PRO — PROPRIETARY SOFTWARE LICENSE
+
+# ALL RIGHTS RESERVED
 
 Copyright © 2026 Vishnu Theertha A. All Rights Reserved.
 
-Audit Engine Pro, including its source code, software architecture, algorithms, audit logic, SOP implementations, Flux analysis engine, data-processing components, documentation, user interface, and associated materials, is proprietary software.
+## 1. OWNERSHIP
 
-No permission is granted to any person or organization to copy, reproduce, modify, adapt, distribute, publish, sublicense, sell, rent, lease, transfer, reverse engineer, or commercially exploit this software or any substantial portion of its source code without prior written permission from the copyright holder.
+Audit Engine Pro ("Software") and all associated intellectual property are proprietary property of the copyright holder, Vishnu Theertha A., unless a component is expressly identified as being owned by a third party.
 
-Viewing this repository on GitHub does not grant any license or ownership rights to the software or its intellectual property.
+The Software includes, without limitation:
 
-The software and associated materials are provided for evaluation, development, demonstration, and/or other purposes expressly authorized by the copyright holder.
+* source code;
+* object code and executable code;
+* algorithms;
+* audit rules;
+* SOP implementations;
+* financial-analysis logic;
+* Flux analysis logic;
+* data-ingestion systems;
+* workbook classification systems;
+* identity-resolution systems;
+* customer and vendor resolution logic;
+* audit scoring systems;
+* evidence-processing systems;
+* reporting systems;
+* narrative-generation systems;
+* user-interface code;
+* web application code;
+* configuration systems;
+* diagnostics;
+* job-management systems;
+* logging systems;
+* connectors and connector integrations;
+* API implementations;
+* schemas and data models;
+* internal architectures;
+* module structures;
+* workflows;
+* prompts and AI-assistance configurations;
+* documentation;
+* designs;
+* naming conventions;
+* tests and test fixtures created by the copyright holder;
+* and other original materials contained in or associated with the Software.
 
-Third-party libraries, dependencies, trademarks, accounting data, external services, and other materials remain subject to their respective owners' licenses and terms.
+Ownership of the Software is not transferred merely because the source code is publicly viewable.
 
-For commercial licensing, partnership, acquisition, or other authorized use, contact the copyright holder.
+## 2. NO LICENSE IS GRANTED
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+Unless the copyright holder provides explicit written authorization, no license, permission, right, title, or interest is granted to any person or organization to use the Software beyond viewing the repository through the hosting platform.
+
+In particular, publication of this repository does NOT constitute an open-source license.
+
+The absence of an explicit license granting permission means that the Software remains proprietary and all rights are reserved.
+
+## 3. PROHIBITED USE
+
+Without prior written authorization from the copyright holder, you may NOT:
+
+1. copy the Software or any substantial portion of it;
+2. reproduce the Software in whole or in part;
+3. modify or alter the Software;
+4. create derivative works based on the Software;
+5. fork the repository for continued independent development;
+6. redistribute the Software;
+7. publish copies or modified versions of the Software;
+8. sublicense the Software;
+9. sell or resell the Software;
+10. rent, lease, or commercially license the Software;
+11. incorporate the Software into another commercial product;
+12. incorporate substantial portions of the source code into another project;
+13. use the Software to provide a commercial hosted or managed service;
+14. use the Software as the basis for a competing product;
+15. use the Software's proprietary audit logic or implementation to develop a substantially similar competing system;
+16. remove or alter copyright, ownership, attribution, or proprietary notices;
+17. publish proprietary source code extracted from this repository elsewhere;
+18. distribute compiled or packaged versions of the Software without authorization;
+19. reverse engineer, decompile, disassemble, or otherwise attempt to derive proprietary implementation details from distributed versions of the Software, except where such restriction is prohibited by applicable law;
+20. circumvent technical restrictions intended to control authorized use;
+21. claim ownership of the Software or any portion of its proprietary implementation;
+22. represent the Software as your own work; or
+23. use the Software or its proprietary implementation for commercial exploitation without written authorization.
+
+## 4. SOURCE CODE
+
+The source code contained in this repository is provided for authorized inspection and evaluation only.
+
+Viewing, downloading, cloning, or otherwise obtaining access to the repository does not grant permission to reuse the source code.
+
+No permission is granted to copy individual files, modules, classes, functions, algorithms, rule implementations, workflows, or other substantial portions of the source code into another project.
+
+This restriction applies regardless of whether the copied material is:
+
+* renamed;
+* reformatted;
+* translated into another programming language;
+* reorganized;
+* rewritten;
+* partially copied;
+* incorporated into another architecture; or
+* combined with independently written code.
+
+## 5. PROPRIETARY AUDIT AND ANALYSIS LOGIC
+
+The Software contains proprietary financial-audit and analysis methodologies and implementations.
+
+This includes, without limitation, proprietary implementations relating to:
+
+* audit rule execution;
+* SOP interpretation;
+* audit-module routing;
+* financial statement analysis;
+* Flux analysis;
+* variance analysis;
+* risk scoring;
+* evidence processing;
+* identity resolution;
+* workbook understanding;
+* data classification;
+* exception detection;
+* commentary generation;
+* audit-package understanding;
+* and associated orchestration.
+
+Unauthorized reproduction or substantial imitation of these proprietary implementations for the purpose of creating a competing product is prohibited to the maximum extent permitted by applicable law.
+
+## 6. DERIVATIVE WORKS
+
+A derivative work includes, where applicable, a modified, translated, adapted, extended, reorganized, or substantially reimplemented version of the Software or its proprietary implementation.
+
+Changing variable names, programming languages, file structures, interfaces, formatting, or individual implementation details does not automatically make a substantially copied implementation independent.
+
+Nothing in this section prevents independent development of software that does not copy protected expression or proprietary materials from Audit Engine Pro.
+
+## 7. COMMERCIAL USE
+
+Commercial use requires explicit written permission.
+
+Commercial use includes, without limitation:
+
+* selling the Software;
+* licensing the Software;
+* incorporating it into a paid product;
+* offering it as SaaS;
+* offering it as an internal commercial service;
+* providing audit services using unauthorized copies;
+* reselling modified versions;
+* using the Software to generate commercial products or reports;
+* or using substantial proprietary portions of the Software in a commercial system.
+
+## 8. AI SYSTEMS AND TRAINING
+
+Without prior written authorization, the repository and its proprietary contents may not be intentionally used as training material, fine-tuning material, retrieval data, evaluation data, prompt-generation material, or other dataset material for the purpose of reproducing or commercially exploiting the proprietary implementation of Audit Engine Pro.
+
+This restriction does not attempt to restrict general knowledge independently obtained from lawful sources.
+
+## 9. PUBLIC REPOSITORY
+
+The repository may be publicly accessible for demonstration, evaluation, portfolio, development, or acquisition purposes.
+
+Public availability does not change the proprietary status of the Software.
+
+GitHub, Git hosting, repository visibility, forks generated by the hosting platform, stars, issues, pull requests, or other platform functionality do not grant additional intellectual-property rights beyond those expressly granted by the copyright holder.
+
+## 10. THIRD-PARTY COMPONENTS
+
+Audit Engine Pro may contain or interact with third-party libraries, frameworks, services, models, connectors, fonts, assets, or other components.
+
+Such components are NOT necessarily owned by the copyright holder.
+
+Third-party components remain subject to their respective licenses and terms.
+
+This license applies only to materials owned or controlled by the copyright holder.
+
+## 11. TRADEMARKS AND BRANDING
+
+"Audit Engine Pro" and associated logos, names, branding, product identifiers, and visual materials may constitute trademarks or protected branding.
+
+No permission is granted to use the product name, logo, branding, or other identifiers in a manner that implies endorsement, ownership, partnership, or authorization.
+
+## 12. CONFIDENTIAL AND SENSITIVE INFORMATION
+
+Users must not commit confidential customer information, financial records, audit evidence, credentials, API keys, passwords, tokens, personally identifiable information, or other sensitive information to this repository.
+
+The copyright holder does not grant permission to redistribute confidential or third-party data that may appear in development materials.
+
+## 13. SECURITY RESEARCH AND LEGAL EXCEPTIONS
+
+Nothing in this license is intended to prohibit conduct that cannot legally be prohibited under applicable law.
+
+Where applicable law grants mandatory rights that conflict with a restriction in this license, those mandatory rights remain unaffected.
+
+## 14. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, OR RELIABILITY, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+THE SOFTWARE IS NOT, BY ITSELF, A SUBSTITUTE FOR PROFESSIONAL ACCOUNTING, AUDITING, LEGAL, TAX, OR OTHER PROFESSIONAL JUDGMENT.
+
+## 15. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE USE, INABILITY TO USE, MODIFICATION, DISTRIBUTION, OR OTHER HANDLING OF THE SOFTWARE.
+
+## 16. TERMINATION OF AUTHORIZED PERMISSIONS
+
+Any permission expressly granted by the copyright holder may be terminated if the recipient violates the applicable written terms of authorization.
+
+Upon termination, the recipient must cease all unauthorized use, distribution, reproduction, and commercial exploitation of the Software.
+
+## 17. ACQUISITION AND COMMERCIAL LICENSING
+
+Nothing in this license prevents the copyright holder from separately selling, assigning, licensing, transferring, or otherwise commercializing the Software and its intellectual property.
+
+A separate written agreement may grant rights broader than those provided here.
+
+Potential acquisition, investment, partnership, licensing, or commercial-use inquiries may be directed to the copyright holder.
+
+## 18. COPYRIGHT NOTICE
+
+Copyright © 2026 Vishnu Theertha A.
+
+All Rights Reserved.
+
+No portion of this Software may be reproduced, distributed, modified, or commercially exploited without prior written authorization, except where otherwise permitted by applicable law.
+
+## 19. GOVERNING LAW
+
+This license shall be interpreted and enforced in accordance with applicable law and, where legally appropriate, the laws of the jurisdiction in which the copyright holder resides or otherwise holds enforceable rights.
+
+If any provision of this license is determined to be unenforceable, the remaining provisions shall remain in effect to the maximum extent permitted by law.
+
+## 20. CONTACT
+
+For permission to use, reproduce, modify, distribute, license, acquire, or commercially exploit Audit Engine Pro, contact the copyright holder directly.
+
+---
+
+**Audit Engine Pro**
+**Copyright © 2026 Vishnu Theertha A.**
+**All Rights Reserved.**
+
+**This is proprietary software. No open-source license is granted.**
+
