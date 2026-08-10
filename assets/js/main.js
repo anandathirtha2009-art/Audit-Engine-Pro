@@ -3,7 +3,7 @@
   "use strict";
 
   // ---- configurable contact (owner edits these two lines) ----
-  var CONTACT_EMAIL = "";            // e.g. "hello@example.com" — leave "" to show placeholder
+  var CONTACT_EMAIL = "anandathirtha2009@gmail.com";            // e.g. "hello@example.com" — leave "" to show placeholder
   var CONTACT_SUBJECT = "Audit Engine Pro — Inquiry";
 
   var emailEl = document.getElementById("contactEmail");
